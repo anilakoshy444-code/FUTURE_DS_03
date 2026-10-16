@@ -1,0 +1,5 @@
+poutcome,Total_Records,Conversions,Conversion_Rate
+failure,4901,618,12.61
+other,1840,307,16.68
+success,1511,978,64.73
+unknown,36959,3386,9.16
